@@ -6,3 +6,4 @@ ta-lib>=0.4.19
 yfinance==0.1.55
 dateutils==0.6.12
 tacharts==0.0.29
+python>=3.8.5
