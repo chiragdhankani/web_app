@@ -2,7 +2,6 @@ pandas==1.1.5
 streamlit>=0.75.0
 numpy==1.19.2
 pillow==8.1.0
-ta-lib>=0.4.19
 yfinance==0.1.55
 dateutils==0.6.12
 tacharts==0.0.29
